@@ -1,4 +1,4 @@
-## Unmaintained
+# Unmaintained
 - [Bobarr](https://github.com/iam4x/bobarr) - The all-in-one alternative for Sonarr, Radarr, Jackett, Transmission, and FlareSolverr with a VPN and running in docker. This is no longer in active development, [author is only accepting PRs](https://github.com/iam4x/bobarr/issues/224#issuecomment-1007031439) for this.  (**Last Commit: Apr 6, 2022**).
 - [Bonarr](https://github.com/bonarr/Bonarr) - Bonarr is an independent fork of Radarr reworked for automatically downloading adult movies via Usenet and BitTorrent (**Last Commit: Sep 12, 2017**).
 - [Cardigann](https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage and other media managers (**Last Commit: Apr 26, 2020**).
